@@ -1,0 +1,117 @@
+/*Global*/
+
+body {
+	margin: 0;
+	padding: 0;
+
+
+}
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: black;
+}
+
+/*Navbar*/
+
+#navbar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	height: 4em;
+	padding-top: 1em;
+	padding-left: 1em;
+	padding-right: 1em;
+	border-bottom: 1px solid #dcdfe5;
+
+
+}
+
+#navbar li {
+	float: right;
+	padding: 0 1em;
+}
+
+
+
+/*Section-A*/
+
+#Section-A {
+	text-align: center;
+}
+
+#Section-A h1 {
+	font-weight: lighter;
+	padding-top: 1em;
+}
+
+#Section-A p {
+	color: grey;
+	padding: 1em;
+}
+
+/*Section-A2*/
+
+#Section-A2 {
+	font-size: 1.2em;
+	text-align: center;
+
+}
+
+#box1 {
+	border: 1px solid grey;
+	padding: 0;
+	margin: 0 1em;
+
+}
+
+#box1 h2 {
+	border: 1px solid grey;
+	background: #dcdfe5;
+	font-weight: lighter;
+	font-size: 1.3em;
+	padding: .5em 0;
+}
+
+#box1 p {
+	padding: .5em 0;
+}
+
+div#box1.col-md-3 {
+	padding-bottom: 1.3em;
+
+}
+
+.text-edit {
+	color: black;
+	font-weight: bolder;
+	font-size: 2em;
+}
+
+.text-edit2 {
+	color: grey;
+	font-weight: lighter;
+	font-size: .7em;
+}
+
+/*Section-C*/
+#Section-C {
+	padding: 2em;
+
+}
+
+
+#Section-C li {
+	list-style-type: none;
+
+}
+
+#Section-C ul {
+	font-weight: bold;
+	font-size: 1.3em;
+	padding: 0;
+}
+
